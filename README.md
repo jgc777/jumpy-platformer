@@ -1,17 +1,21 @@
- 
+>Juego de Jorge García
+## 
+## Como jugar
+> Abre el juego pulsando [aquí](https://jgc777.github.io/jumpy-platformer/)
 
+- W/Espacio/Q - ARRIBA
+- S - AGACHARSE
+- A - IZQIERDA
+- D - DERECHA
+- ESPACIO/ Q - SALTAR MENSAJE
 
-> Open this page at [https://jgc777.github.io/jumpy-platformer/](https://jgc777.github.io/jumpy-platformer/)
+>
 
-## Edit this project ![Build status badge](https://github.com/jgc777/jumpy-platformer/workflows/MakeCode/badge.svg)
+- PULSA DOS VECES SEGUIDAS SALTAR PARA SALTAR EL DOBLE
 
-To edit this repository in MakeCode.
+## Acerca de
+- 👋 Hola, Soy @jgc777
+- 👀 Estoy interesado en minecraft
+- 🌱 Estoy aprendiendo makecode arcade
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/jgc777/jumpy-platformer** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+   https://github.com/jgc777
