@@ -1,5 +1,6 @@
 >Juego de Jorge García
-## 
+
+__________________________________________________________________________________________________________________________________________
 ## Como jugar
 > Abre el juego pulsando [aquí](https://jgc777.github.io/jumpy-platformer/)
 
@@ -18,4 +19,4 @@
 - 👀 Estoy interesado en minecraft
 - 🌱 Estoy aprendiendo makecode arcade
 
-   https://github.com/jgc777
+   [Mi perfil](https://github.com/jgc777)
