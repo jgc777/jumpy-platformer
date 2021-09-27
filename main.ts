@@ -701,6 +701,10 @@ function clearGame () {
         value4.destroy()
     }
 }
+scene.onOverlapTile(SpriteKind.Player, assets.tile`Troll`, function (sprite, location) {
+    game.showLongText("Sigue las monedas", DialogLayout.Bottom)
+    setLevelTileMap(0)
+})
 scene.onOverlapTile(SpriteKind.Player, assets.tile`tile1`, function (sprite, location) {
     info.changeLifeBy(1)
     currentLevel += 1
