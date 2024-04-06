@@ -1,7 +1,3 @@
->Juego de Jorge García
-
-__________________________________________________________________________________________________________________________________________
-## Como jugar
 > Abre el juego pulsando [aquí](https://jgc777.github.io/jumpy-platformer/)
 
 - W/Espacio/Q - ARRIBA
@@ -9,14 +5,4 @@ ________________________________________________________________________________
 - A - IZQIERDA
 - D - DERECHA
 - ESPACIO/ Q - SALTAR MENSAJE
-
->
-
 - PULSA DOS VECES SEGUIDAS SALTAR PARA SALTAR EL DOBLE
-
-## Acerca de
-- 👋 Hola, Soy @jgc777
-- 👀 Estoy interesado en minecraft
-- 🌱 Estoy aprendiendo makecode arcade
-
-   [Mi perfil](https://github.com/jgc777)
